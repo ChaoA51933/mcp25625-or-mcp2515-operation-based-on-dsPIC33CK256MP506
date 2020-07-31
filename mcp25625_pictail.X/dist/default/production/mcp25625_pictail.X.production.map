@@ -417,18 +417,18 @@ __FBTSEQ
 .comment
  *(.comment)
 
-.debug_info       0x000000       0x5294
+.debug_info       0x000000       0x54ce
  *(.debug_info)
- .debug_info      0x000000        0x91e build/default/production/mcc_generated_files/spi1.o
- .debug_info      0x00091e        0x49d build/default/production/mcc_generated_files/reset.o
- .debug_info      0x000dbb        0x54a build/default/production/mcc_generated_files/system.o
- .debug_info      0x001305        0x6ef build/default/production/mcc_generated_files/clock.o
- .debug_info      0x0019f4        0x630 build/default/production/mcc_generated_files/traps.o
- .debug_info      0x002024        0x169 build/default/production/mcc_generated_files/interrupt_manager.o
- .debug_info      0x00218d        0x5ee build/default/production/mcc_generated_files/pin_manager.o
- .debug_info      0x00277b       0x2183 build/default/production/sourse/driver/drv_mcp25625.o
- .debug_info      0x0048fe        0x1ba build/default/production/sourse/driver/drv_extend_mcc.o
- .debug_info      0x004ab8        0x7dc build/default/production/main.o
+ .debug_info      0x000000        0x957 build/default/production/mcc_generated_files/spi1.o
+ .debug_info      0x000957        0x4d6 build/default/production/mcc_generated_files/reset.o
+ .debug_info      0x000e2d        0x583 build/default/production/mcc_generated_files/system.o
+ .debug_info      0x0013b0        0x728 build/default/production/mcc_generated_files/clock.o
+ .debug_info      0x001ad8        0x669 build/default/production/mcc_generated_files/traps.o
+ .debug_info      0x002141        0x1a2 build/default/production/mcc_generated_files/interrupt_manager.o
+ .debug_info      0x0022e3        0x627 build/default/production/mcc_generated_files/pin_manager.o
+ .debug_info      0x00290a       0x21bc build/default/production/sourse/driver/drv_mcp25625.o
+ .debug_info      0x004ac6        0x1f3 build/default/production/sourse/driver/drv_extend_mcc.o
+ .debug_info      0x004cb9        0x815 build/default/production/main.o
  *(.gnu.linkonce.wi.*)
 
 .debug_abbrev     0x000000        0xa1d
