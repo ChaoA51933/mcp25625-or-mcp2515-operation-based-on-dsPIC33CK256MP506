@@ -34,7 +34,13 @@ The following picture describe the connection between these boards.
 
 ![](https://github.com/ChaoA51933/mcp25625-or-mcp2515-operation-based-on-dsPIC33CK256MP506/blob/master/images/hardware_wire_connection.png) 
 
-The ossicilator is 20M, and the baudrate of CAN is 500k.
+The ossicilator is 20M, and the baudrate of CAN is 500k. TQ configuration are as follow,
+1) SYNC: 1TQ
+2) PROP_SEG: 7TQ
+3) PHASE_SEG1: 8TQ
+4) PHASE_SEG2: 4TQ
+5) SJW: 4TQ
+
 
 Operation:
 ==========
