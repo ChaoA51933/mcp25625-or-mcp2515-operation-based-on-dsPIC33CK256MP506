@@ -21,7 +21,7 @@ Hardware Used:
 1) [MCP25625 PICTail Plus Daughter Board (Part Number: ADM00617)](http://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CK256MP508-Family-Data-Sheet-DS70005349H.pdf)
 2) [Digital Power Development Board (Part Number: DM330029)](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/DM330029)
 3) [dsPIC33CK256MP506 Digital Power PIM (Part Number: MA330048)](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/MA330048)
-4) [MPLAB PICkit 4 In-Circuit Debugger (Part Number: PG164140)](https://www.microchip.com/Developmenttools/ProductDetails/PG164140)
+4) [MPLAB ICD 4 In-Circuit Debugger (Part Number: DV164045)](https://www.microchip.com/developmenttools/ProductDetails/DV164045)
 
 Setup:
 ======
