@@ -37,7 +37,7 @@ The following picture describe the connection between these boards.
 ![](https://github.com/ChaoA51933/mcp25625-or-mcp2515-operation-based-on-dsPIC33CK256MP506/blob/master/images/hardware_wire_connection.png) 
 ![](https://gitee.com/chaoa51933/mcp25625-or-mcp2515-operation-based-on-dsPIC33CK256MP506/tree/master/images/test_deveice.jpg) 
 
-The spi clk between dsPIC33CK256MP506 and mcp25625 is 5MHz.
+The spi clk between dsPIC33CK256MP506 and mcp25625 is 5MHz, spi mode is 0.
 
 The ossicilator for mcp25625 is 20M, and the baudrate of CAN is 500k. TQ configuration are as follow,
 1) SYNC: 1TQ
