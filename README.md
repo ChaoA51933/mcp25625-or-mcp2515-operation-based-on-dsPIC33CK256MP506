@@ -11,3 +11,11 @@ Related Documentation:
 =====================
 1) [dsPIC33CK256MP508-Family-Data-Sheet-DS70005349H](http://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CK256MP508-Family-Data-Sheet-DS70005349H.pdf)
 2) [MCP25625-CAN-Controller-Data-Sheet-20005282C](http://ww1.microchip.com/downloads/en/DeviceDoc/MCP25625-CAN-Controller-Data-Sheet-20005282C.pdf)
+
+Software Used:
+==============
+1) [MPLAB® X IDE 5.40](microchip.com/mplab/mplab-x-ide)
+2) [MPLAB® XC16 1.50](microchip.com/mplab/compilers)
+3) [MPLAB® Code Configurator (MCC) 3.95.0](microchip.com/mplab/mplab-code-configurator)
+4) [MPLAB® Code Configurator (MCC) Device Libraries PIC24 / dsPIC33 / PIC32MM MCUs 1.167.0](microchip.com/mplab/mplab-code-configurator)
+5) [Microchip dsPIC33CK-MP Series Device Support 1.4.102](packs.download.microchip.com/)
