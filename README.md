@@ -44,7 +44,7 @@ The ossicilator is 20M, and the baudrate of CAN is 500k. TQ configuration are as
 
 Operation:
 ==========
-When run this example, if MCU received message formate like ID is from 0x100 to 0x1FF, and DLC is 1 byte, then MCU will send the same CAN message out.
+When run this example, if MCU received message formate like ID is from 0x100 to 0x1FF, and DLC is 1 byte, then MCU will send the same CAN message received out.
 
 
 Summary:
