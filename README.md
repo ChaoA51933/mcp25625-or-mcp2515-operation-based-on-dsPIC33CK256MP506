@@ -26,7 +26,9 @@ Hardware Used:
 
 Setup:
 ======
+The test boards I do the test is as follow,
 ![](https://github.com/ChaoA51933/mcp25625-or-mcp2515-operation-based-on-dsPIC33CK256MP506/blob/master/images/test_deveice.jpg) 
+
 
 Operation:
 ==========
