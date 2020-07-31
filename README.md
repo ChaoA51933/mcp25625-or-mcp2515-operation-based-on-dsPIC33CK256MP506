@@ -34,11 +34,13 @@ The following picture describe the connection between these boards.
 
 ![](https://github.com/ChaoA51933/mcp25625-or-mcp2515-operation-based-on-dsPIC33CK256MP506/blob/master/images/hardware_wire_connection.png) 
 
-
-
+The ossicilator is 20M, and the baudrate of CAN is 500k.
 
 Operation:
 ==========
+When run this example, if MCU received message formate like ID is from 0x100 to 0x1FF, and DLC is 1 byte, then MCU will send the same CAN message out.
+
 
 Summary:
 ========
+Actually, this is one driver example for mcp25625&mcp2515, you could use these code for other MCU's use.
