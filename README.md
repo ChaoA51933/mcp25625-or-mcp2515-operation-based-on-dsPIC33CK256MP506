@@ -30,12 +30,11 @@ The test boards I do the test is as follow.
 
 ![](https://github.com/ChaoA51933/mcp25625-or-mcp2515-operation-based-on-dsPIC33CK256MP506/blob/master/images/test_deveice.jpg) 
 
-The PIC18F47Q10 Curiosity Nano Development Board is used as the test platform.
-The following configuration is done for this example:
+The following picture describe the connection between these boards.
 
-RB4 pin - Configured as digital PWM output (CCP1)
-RE2 pin - Configured as digital input with pull-up for button SW0
-RE0 (LED0) pin kept as input - Optionally used for LED visualization
+![](https://github.com/ChaoA51933/mcp25625-or-mcp2515-operation-based-on-dsPIC33CK256MP506/blob/master/images/hardware_wire_connection.png) 
+
+
 
 
 Operation:
